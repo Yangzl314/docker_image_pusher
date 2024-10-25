@@ -39,7 +39,7 @@ ALIYUN_NAME_SPACE,ALIYUN_REGISTRY_USER，ALIYUN_REGISTRY_PASSWORD，ALIYUN_REGIS
 配置成环境变量
 
 ### 添加镜像
-访问https://docker.fxxk.dedyn.io/寻找你想要的镜像
+访问https://docker.fxxk.dedyn.io/寻找你想要的镜像<br>
 打开images.txt文件，添加镜像 
 可以加tag，也可以不用(默认latest)<br>
 可添加 --platform=xxxxx 的参数指定镜像架构<br>
